@@ -1,5 +1,5 @@
 # Adding_component_By_React_JS
-This is built by using React JS CSS Html and Bootsrap
+This is built by using React JS CSS Html and Bootstrap
 
 Here I have shared a video of my React Adding Item Output. 
 
